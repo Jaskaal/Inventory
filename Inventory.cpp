@@ -14,6 +14,9 @@ Inventory::Inventory(string name, float price, int count)
 
 void Inventory::sell()
 {
+  if(m_in_stock ==  0){
+  	std::cout << "Sorry, that item is out of stock" << std::endl;
+  }
   m_in_stock--;
 }
 
