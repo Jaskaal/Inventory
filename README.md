@@ -1,4 +1,5 @@
 # Readme
+[![Build Status](https://travis-ci.org/Jaskaal/Inventory.svg?branch=master)](https://travis-ci.org/Jaskaal/Inventory)
 
 ##Instructions
 Run the makefile and then create the resulting object with g++
