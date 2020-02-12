@@ -1,5 +1,7 @@
 # Readme
 
+##Instructions
+Run the makefile and then create the resulting object with g++
 
 ##CPP
 ###Inventory()
